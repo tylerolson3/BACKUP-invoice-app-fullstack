@@ -487,7 +487,7 @@ const styles = {
     left: "0px",
     height: { xs: "90px", sm: "100px" },
     minWidth: { sm: "660px", md: "700px" },
-    maxWidth: { xs: "100vw", sm: "699px", md: "835px" },
+    maxWidth: { xs: "100vw", sm: "699px", md: "895px" },
     bgcolor: "#F8F8FB",
     justifyContent: "flex-end",
   },
