@@ -4,7 +4,7 @@ const cors = require("cors");
 const db = require("./db");
 
 const app = express();
-const PORT = process.env.PORT || 4040;
+const port = process.env.PORT || 3002;
 
 app.use(cors());
 app.use(express.json());
@@ -149,4 +149,6 @@ app.delete(`/api/v1/invoices/:id`, async (req, res) => {
   }
 });
 
-app.listen(PORT, () => console.log(`listening on ${PORT}`));
+app.listen(port, () => console.log(`listening on ${port}`));
+
+//testing
