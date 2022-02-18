@@ -375,7 +375,7 @@ const styles = {
   },
   64: {
     width: { xs: "90vw" },
-    maxWidth: { xs: "90vw", sm: "632px", md: "850px" },
+    maxWidth: { xs: "90vw", sm: "632px", md: "835px" },
     display: "flex",
     justifyContent: "flex-end",
   },
