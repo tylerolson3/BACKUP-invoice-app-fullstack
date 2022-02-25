@@ -1,5 +1,5 @@
 # About the Project
-This project was a solo challenge from [Frontend Mentor]https://www.frontendmentor.io/challenges/invoice-app-i7KaLTQjl) where the objective was to use the
+This project was a solo challenge from [Frontend Mentor](https://www.frontendmentor.io/challenges/invoice-app-i7KaLTQjl) where the objective was to use the
 
 The Challenge:
 
