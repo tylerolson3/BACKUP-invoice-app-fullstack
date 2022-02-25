@@ -1,7 +1,7 @@
 # About the Project
 Write a short sentence or two about this project and what it does. Be sure to include a link and a screenshot (we're front end devs so we can actually see our work!).
 
-## The challenge
+The challenge
 
 - Build out this invoicing application and get it looking as close to the design as possible.
 - View the optimal layout for the app depending on their device's screen size
@@ -34,13 +34,5 @@ You don't have to include this section but interviewers *love* that you can not 
 
 No matter what your experience level, being an engineer means continuously learning. Every time you build something you always have those *whoa this is awesome* or *fuck yeah I did it!* moments. This is where you should share those moments! Recruiters and interviewers love to see that you're self-aware and passionate about growing.
 
-## Examples:
-Take a look at these couple examples that I have in my own portfolio:
-
-**Palettable:** https://github.com/alecortega/palettable
-
-**Twitter Battle:** https://github.com/alecortega/twitter-battle
-
-**Patch Panel:** https://github.com/alecortega/patch-panel
 
 
