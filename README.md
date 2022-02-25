@@ -1,5 +1,5 @@
 # About the Project
-Write a short sentence or two about this project and what it does. Be sure to include a link and a screenshot (we're front end devs so we can actually see our work!).
+This project was a solo challenge from [Frontend Mentor]https://www.frontendmentor.io/challenges/invoice-app-i7KaLTQjl) where the objective was to use the
 
 The Challenge:
 
