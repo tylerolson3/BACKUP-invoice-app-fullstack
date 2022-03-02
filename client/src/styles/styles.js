@@ -726,6 +726,13 @@ const styles = {
   114: {
     mr: { md: "50px" },
   },
+  115: {
+    width: "100%",
+    height: "30vh",
+    display: "flex",
+    justifyContent: "center",
+    alignItems: "center",
+  },
 };
 
 // const gary = {

@@ -7,6 +7,7 @@ import CircleIcon from "@mui/icons-material/Circle";
 import { InvoicesContext } from "../context/InvoicesContext";
 import { useNavigate } from "react-router";
 import ArrowForwardIosIcon from "@mui/icons-material/ArrowForwardIos";
+import LoadingSpinner from "./LoadingSpinner";
 
 function InvoicesList() {
   const {
@@ -91,7 +92,10 @@ function InvoicesList() {
 
   return (
     <>
-      <Box sx={{ ...styles[20] }}>{invoicesSummaryList}</Box>
+      {/* <Box sx={{ ...styles[20] }}>{invoicesSummaryList}</Box> */}
+      <Box sx={{ ...styles[20] }}>
+        {invoices.length < 1 ? <LoadingSpinner /> : invoicesSummaryList}
+      </Box>
     </>
   );
 }
